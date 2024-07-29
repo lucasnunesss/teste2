@@ -1,0 +1,393 @@
+[33maa72bd4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from feature_branch to main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{1}: checkout: moving from main to feature_branch
+[33maa72bd4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m refs/remotes/origin/main@{0}: update by push
+[33maa72bd4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m refs/heads/main@{0}: rebase (finish): refs/heads/main onto 9251e8b1f6e6635f527df631bd5bea9ad97c2883
+[33maa72bd4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/main
+[33maa72bd4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: rebase (squash): b
+[33m49b2a6d[m HEAD@{4}: rebase (start): checkout 9251e8b
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{5}: rebase (abort): returning to refs/heads/main
+[33m9251e8b[m HEAD@{6}: rebase (start): checkout 9251e8b
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m refs/heads/main@{1}: rebase (finish): refs/heads/main onto 217f98f5bd38b1ddfd252620eb0a240003496016
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{7}: rebase (finish): returning to refs/heads/main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{8}: rebase (start): checkout 217f98f
+[33m4e5fcae[m HEAD@{9}: checkout: moving from feature_branch to main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{10}: checkout: moving from main to feature_branch
+[33m4e5fcae[m HEAD@{11}: rebase (abort): returning to refs/heads/main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{12}: rebase (start): checkout feature_branch
+[33m4e5fcae[m HEAD@{13}: rebase (abort): returning to refs/heads/main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{14}: rebase (start): checkout feature_branch
+[33m4e5fcae[m HEAD@{15}: rebase (abort): returning to refs/heads/main
+[33m7a26ec5[m HEAD@{16}: commit (amend): c
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{17}: rebase (start): checkout feature_branch
+[33m4e5fcae[m HEAD@{18}: checkout: moving from feature_branch to main
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m refs/heads/feature_branch@{0}: commit: b
+[33m217f98f[m[33m ([m[1;32mfeature_branch[m[33m)[m HEAD@{19}: commit: b
+[33m49b2a6d[m refs/heads/feature_branch@{1}: commit: a
+[33m49b2a6d[m HEAD@{20}: commit: a
+[33m9251e8b[m HEAD@{21}: checkout: moving from main to feature_branch
+[33m4e5fcae[m refs/remotes/origin/main@{1}: update by push
+[33m4e5fcae[m refs/heads/main@{2}: commit (amend): deleted: nenwnenw.txt
+[33m4e5fcae[m HEAD@{22}: commit (amend): deleted: nenwnenw.txt
+[33m5939ed5[m refs/heads/main@{3}: commit (amend): deleted: nenwnenw.txt
+[33m5939ed5[m HEAD@{23}: commit (amend): deleted: nenwnenw.txt
+[33m13d7331[m refs/heads/main@{4}: commit (amend): deleted: nenwnenw.txt
+[33m13d7331[m HEAD@{24}: commit (amend): deleted: nenwnenw.txt
+[33m4ae148d[m refs/heads/main@{5}: commit (amend): remOVI OUTRO
+[33m4ae148d[m HEAD@{25}: commit (amend): remOVI OUTRO
+[33m9251e8b[m HEAD@{26}: rebase (finish): returning to refs/heads/main
+[33m9251e8b[m HEAD@{27}: rebase (start): checkout feature_branch
+[33m9251e8b[m refs/heads/main@{6}: rebase (finish): refs/heads/main onto 9251e8b1f6e6635f527df631bd5bea9ad97c2883
+[33m9251e8b[m HEAD@{28}: rebase (finish): returning to refs/heads/main
+[33m9251e8b[m HEAD@{29}: rebase (start): checkout feature_branch
+[33m263477d[m HEAD@{30}: checkout: moving from feature_branch to main
+[33m9251e8b[m refs/heads/feature_branch@{2}: commit: remOVI OUTRO
+[33m9251e8b[m HEAD@{31}: commit: remOVI OUTRO
+[33m0dd4a4d[m refs/heads/feature_branch@{3}: commit: removi
+[33m0dd4a4d[m HEAD@{32}: commit: removi
+[33m1e6529c[m HEAD@{33}: checkout: moving from main to feature_branch
+[33m263477d[m refs/heads/main@{7}: commit (amend): aaaaa
+[33m263477d[m HEAD@{34}: commit (amend): aaaaa
+[33m1e6529c[m refs/heads/main@{8}: rebase (finish): refs/heads/main onto 1e6529c0d7035d8f32db0fd7e1eab627ab6dca22
+[33m1e6529c[m HEAD@{35}: rebase (finish): returning to refs/heads/main
+[33m1e6529c[m HEAD@{36}: rebase (start): checkout feature_branch
+[33m709f09d[m HEAD@{37}: checkout: moving from feature_branch to main
+[33m1e6529c[m refs/heads/feature_branch@{4}: commit: escrevi
+[33m1e6529c[m HEAD@{38}: commit: escrevi
+[33m64c2995[m refs/heads/feature_branch@{5}: commit: criei arquivo
+[33m64c2995[m HEAD@{39}: commit: criei arquivo
+[33mf169f4c[m refs/heads/feature_branch@{6}: commit: alterei arquivo
+[33mf169f4c[m HEAD@{40}: commit: alterei arquivo
+[33m709f09d[m HEAD@{41}: checkout: moving from main to feature_branch
+[33m709f09d[m refs/remotes/origin/main@{2}: update by push
+[33m709f09d[m refs/heads/main@{9}: rebase (finish): refs/heads/main onto 709f09d49bf85a8b064a7b3719defea175fbd901
+[33m709f09d[m HEAD@{42}: rebase (finish): returning to refs/heads/main
+[33m709f09d[m HEAD@{43}: rebase (start): checkout 709f09d
+[33m1432e08[m HEAD@{44}: checkout: moving from feature_branch to main
+[33m709f09d[m HEAD@{45}: checkout: moving from main to feature_branch
+[33m1432e08[m HEAD@{46}: checkout: moving from feature_branch to main
+[33m709f09d[m refs/heads/feature_branch@{7}: commit: add new new new
+[33m709f09d[m HEAD@{47}: commit: add new new new
+[33m1432e08[m HEAD@{48}: checkout: moving from main to feature_branch
+[33m1432e08[m refs/remotes/origin/main@{3}: update by push
+[33m1432e08[m refs/heads/main@{10}: rebase (finish): refs/heads/main onto 1432e0824904c4f2d44a1387bd060a2f28cdee10
+[33m1432e08[m HEAD@{49}: rebase (finish): returning to refs/heads/main
+[33m1432e08[m HEAD@{50}: rebase (start): checkout 1432e08
+[33mc01c256[m HEAD@{51}: checkout: moving from feature_branch to main
+[33m1432e08[m HEAD@{52}: checkout: moving from main to feature_branch
+[33mc01c256[m HEAD@{53}: checkout: moving from feature_branch to main
+[33m1432e08[m HEAD@{54}: checkout: moving from main to feature_branch
+[33mc01c256[m HEAD@{55}: checkout: moving from feature_branch to main
+[33m1432e08[m refs/heads/feature_branch@{8}: commit: novos
+[33m1432e08[m HEAD@{56}: commit: novos
+[33mc01c256[m HEAD@{57}: checkout: moving from main to feature_branch
+[33mc01c256[m refs/remotes/origin/main@{4}: update by push
+[33mc01c256[m refs/heads/main@{11}: rebase (finish): refs/heads/main onto c01c2564b7050057e43ec945aabef24031e85060
+[33mc01c256[m HEAD@{58}: rebase (finish): returning to refs/heads/main
+[33mc01c256[m HEAD@{59}: rebase (start): checkout feature_branch
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{60}: checkout: moving from feature_branch to main
+[33mc01c256[m refs/heads/feature_branch@{9}: commit: Adds new feature
+[33mc01c256[m HEAD@{61}: commit: Adds new feature
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m refs/heads/feature_branch@{10}: branch: Created from main
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{62}: checkout: moving from main to feature_branch
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{63}: checkout: moving from feature to main
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m refs/remotes/origin/feature@{0}: update by push
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m refs/heads/feature@{0}: rebase (finish): refs/heads/feature onto cba8fea4d136ec4292443b89c881adb2d17e3a18
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{64}: rebase (finish): returning to refs/heads/feature
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{65}: rebase (start): checkout main
+[33m7a86215[m HEAD@{66}: checkout: moving from main to feature
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m refs/remotes/origin/main@{5}: update by push
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m refs/heads/main@{12}: commit: novas
+[33mcba8fea[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{67}: commit: novas
+[33m7a86215[m HEAD@{68}: checkout: moving from feature to main
+[33m7a86215[m HEAD@{69}: checkout: moving from main to feature
+[33m7a86215[m refs/remotes/origin/main@{6}: update by push
+[33m7a86215[m refs/heads/main@{13}: rebase (finish): refs/heads/main onto 7a862154ca28af07c966815209de2407998ffda4
+[33m7a86215[m HEAD@{70}: rebase (finish): returning to refs/heads/main
+[33m7a86215[m HEAD@{71}: rebase (start): checkout feature
+[33m88b3661[m HEAD@{72}: checkout: moving from feature to main
+[33m7a86215[m refs/remotes/origin/feature@{1}: update by push
+[33m7a86215[m refs/heads/feature@{1}: commit: novas mudan
+[33m7a86215[m HEAD@{73}: commit: novas mudan
+[33m7a7ff44[m refs/heads/feature@{2}: rebase (finish): refs/heads/feature onto 88b3661a80d9b3af55fb09f5e55a94587b5d0acd
+[33m7a7ff44[m HEAD@{74}: rebase (finish): returning to refs/heads/feature
+[33m7a7ff44[m HEAD@{75}: rebase (pick): Começando estrutura
+[33m88b3661[m HEAD@{76}: rebase (start): checkout main
+[33m9f91aef[m HEAD@{77}: checkout: moving from main to feature
+[33m88b3661[m refs/remotes/origin/main@{7}: update by push
+[33m88b3661[m refs/heads/main@{14}: commit: add artigo0555
+[33m88b3661[m HEAD@{78}: commit: add artigo0555
+[33mce84c3a[m HEAD@{79}: checkout: moving from feature to main
+[33m9f91aef[m refs/remotes/origin/feature@{2}: update by push
+[33m9f91aef[m refs/heads/feature@{3}: commit: Começando estrutura
+[33m9f91aef[m HEAD@{80}: commit: Começando estrutura
+[33mce84c3a[m refs/heads/feature@{4}: branch: Created from HEAD
+[33mce84c3a[m HEAD@{81}: checkout: moving from main to feature
+[33mce84c3a[m refs/remotes/origin/main@{8}: update by push
+[33mce84c3a[m refs/heads/main@{15}: rebase (finish): refs/heads/main onto fd1eb89435ead70ab4fc66cac251f188627c0b27
+[33mce84c3a[m HEAD@{82}: rebase (finish): returning to refs/heads/main
+[33mce84c3a[m HEAD@{83}: rebase (continue): aa
+[33m920b2af[m HEAD@{84}: rebase (continue): teste stash
+[33mf2687c4[m HEAD@{85}: rebase (start): checkout HEAD~5
+[33me2dc7c1[m HEAD@{86}: rebase (abort): returning to refs/heads/main
+[33mfd1eb89[m HEAD@{87}: rebase (start): checkout HEAD~5
+[33me2dc7c1[m refs/heads/main@{16}: pull: Merge made by the 'ort' strategy.
+[33me2dc7c1[m HEAD@{88}: pull: Merge made by the 'ort' strategy.
+[33m86644dd[m HEAD@{89}: checkout: moving from resetBranch to main
+[33m2899a43[m[33m ([m[1;32mresetBranch[m[33m)[m HEAD@{90}: checkout: moving from main to resetBranch
+[33m86644dd[m refs/heads/main@{17}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33m86644dd[m HEAD@{91}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33m0e5cacd[m refs/heads/main@{18}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33m0e5cacd[m HEAD@{92}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33mc90bedf[m HEAD@{93}: checkout: moving from resetBranch to main
+[33m2899a43[m[33m ([m[1;32mresetBranch[m[33m)[m HEAD@{94}: rebase (abort): returning to refs/heads/resetBranch
+[33mc90bedf[m refs/heads/main@{19}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33mc90bedf[m HEAD@{95}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33m7aa9246[m refs/heads/main@{20}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33m7aa9246[m HEAD@{96}: commit (amend): Merge branch 'main' of https://github.com/lucasnunesss/teste2
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m HEAD@{97}: checkout: moving from add-style to main
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m refs/heads/add-style@{0}: merge main: Fast-forward
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m HEAD@{98}: merge main: Fast-forward
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{99}: checkout: moving from main to add-style
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m HEAD@{100}: checkout: moving from main to main
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m refs/remotes/origin/main@{9}: update by push
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m HEAD@{101}: checkout: moving from main to main
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m refs/heads/main@{21}: pull: Merge made by the 'ort' strategy.
+[33mdd70d46[m[33m ([m[1;32madd-style[m[33m)[m HEAD@{102}: pull: Merge made by the 'ort' strategy.
+[33m89b8fad[m HEAD@{103}: checkout: moving from main to main
+[33m89b8fad[m refs/heads/main@{22}: commit (amend): aa
+[33m89b8fad[m HEAD@{104}: commit (amend): aa
+[33m2ed76fd[m refs/heads/main@{23}: commit (amend): aa
+[33m2ed76fd[m HEAD@{105}: commit (amend): aa
+[33m630e455[m HEAD@{106}: checkout: moving from main to main
+[33m630e455[m HEAD@{107}: checkout: moving from 2899a43f5a14fcd136d8f8dde15320917de42f61 to main
+[33m2899a43[m[33m ([m[1;32mresetBranch[m[33m)[m HEAD@{108}: rebase (start): checkout resetBranch
+[33m2899a43[m[33m ([m[1;32mresetBranch[m[33m)[m refs/heads/resetBranch@{0}: commit (amend): novas mudancas
+[33m2899a43[m[33m ([m[1;32mresetBranch[m[33m)[m HEAD@{109}: commit (amend): novas mudancas
+[33mc31bd07[m[33m ([m[1;31morigin/resetBranch[m[33m)[m refs/remotes/origin/resetBranch@{0}: update by push
+[33mc31bd07[m[33m ([m[1;31morigin/resetBranch[m[33m)[m refs/heads/resetBranch@{1}: commit (amend): novas mudancas
+[33mc31bd07[m[33m ([m[1;31morigin/resetBranch[m[33m)[m HEAD@{110}: commit (amend): novas mudancas
+[33mcccd8fa[m refs/heads/resetBranch@{2}: commit (amend): novas mudancas
+[33mcccd8fa[m HEAD@{111}: commit (amend): novas mudancas
+[33mfe9161f[m refs/heads/resetBranch@{3}: commit: novas mudancas
+[33mfe9161f[m HEAD@{112}: commit: novas mudancas
+[33ma033b84[m refs/remotes/origin/resetBranch@{1}: update by push
+[33ma033b84[m refs/heads/resetBranch@{4}: commit (amend): novas mudancas
+[33ma033b84[m HEAD@{113}: commit (amend): novas mudancas
+[33mb528dbf[m refs/remotes/origin/resetBranch@{2}: update by push
+[33mb528dbf[m refs/heads/resetBranch@{5}: commit (amend): novas mudancas
+[33mb528dbf[m HEAD@{114}: commit (amend): novas mudancas
+[33me4c1885[m refs/heads/resetBranch@{6}: commit: novas mudancas
+[33me4c1885[m HEAD@{115}: commit: novas mudancas
+[33m34f735a[m refs/remotes/origin/resetBranch@{3}: update by push
+[33m34f735a[m refs/heads/resetBranch@{7}: commit (amend): new changes
+[33m34f735a[m HEAD@{116}: commit (amend): new changes
+[33mce8a21a[m refs/heads/resetBranch@{8}: commit: new changes
+[33mce8a21a[m HEAD@{117}: commit: new changes
+[33m81ee802[m refs/heads/resetBranch@{9}: commit (amend): new changes
+[33m81ee802[m HEAD@{118}: commit (amend): new changes
+[33m8d5dd25[m refs/remotes/origin/resetBranch@{4}: update by push
+[33m8d5dd25[m refs/heads/resetBranch@{10}: commit: new changes
+[33m8d5dd25[m HEAD@{119}: commit: new changes
+[33m6568cd5[m refs/remotes/origin/resetBranch@{5}: update by push
+[33m6568cd5[m refs/heads/resetBranch@{11}: revert: Revert "removing"
+[33m6568cd5[m HEAD@{120}: revert: Revert "removing"
+[33mc8168e2[m refs/remotes/origin/resetBranch@{6}: update by push
+[33mc8168e2[m refs/heads/resetBranch@{12}: commit: removing
+[33mc8168e2[m HEAD@{121}: commit: removing
+[33ma912060[m refs/heads/resetBranch@{13}: commit: novas
+[33ma912060[m HEAD@{122}: commit: novas
+[33m384a2a2[m HEAD@{123}: reset: moving to 384a2a2
+[33m384a2a2[m refs/heads/resetBranch@{14}: reset: moving to 384a2a2
+[33m384a2a2[m HEAD@{124}: reset: moving to 384a2a2
+[33ma4754b9[m refs/heads/resetBranch@{15}: commit: modified: arq3.html
+[33ma4754b9[m HEAD@{125}: commit: modified: arq3.html
+[33m384a2a2[m HEAD@{126}: reset: moving to 384a2a2
+[33m384a2a2[m refs/heads/resetBranch@{16}: reset: moving to 384a2a2
+[33m384a2a2[m HEAD@{127}: reset: moving to 384a2a2
+[33ma63ecec[m refs/remotes/origin/resetBranch@{7}: update by push
+[33ma63ecec[m refs/heads/resetBranch@{17}: commit: changes
+[33ma63ecec[m HEAD@{128}: commit: changes
+[33m384a2a2[m refs/heads/resetBranch@{18}: reset: moving to 384a2a2
+[33m384a2a2[m HEAD@{129}: reset: moving to 384a2a2
+[33m630e455[m refs/heads/resetBranch@{19}: branch: Created from HEAD
+[33m630e455[m HEAD@{130}: checkout: moving from main to resetBranch
+[33m630e455[m HEAD@{131}: checkout: moving from branch_novo to main
+[33mc204666[m[33m ([m[1;31morigin/branch_novo[m[33m, [m[1;32mbranch_novo[m[33m)[m refs/remotes/origin/branch_novo@{0}: update by push
+[33mc204666[m[33m ([m[1;31morigin/branch_novo[m[33m, [m[1;32mbranch_novo[m[33m)[m refs/heads/branch_novo@{0}: revert: Revert "revert"
+[33mc204666[m[33m ([m[1;31morigin/branch_novo[m[33m, [m[1;32mbranch_novo[m[33m)[m HEAD@{132}: revert: Revert "revert"
+[33m3547fc9[m HEAD@{133}: reset: moving to 3547fc9dbab5b2acc13e3bd5e3d10fe22a7ce3cd
+[33m3547fc9[m refs/remotes/origin/branch_novo@{1}: update by push
+[33m3547fc9[m refs/heads/branch_novo@{1}: commit: revert
+[33m3547fc9[m HEAD@{134}: commit: revert
+[33m9641983[m HEAD@{135}: reset: moving to 9641983df6705220912264f723c3270e1621b6a4
+[33m9641983[m HEAD@{136}: checkout: moving from main to branch_novo
+[33m630e455[m HEAD@{137}: checkout: moving from branch_novo to main
+[33m9641983[m refs/remotes/origin/branch_novo@{2}: update by push
+[33m9641983[m refs/heads/branch_novo@{2}: commit: aa
+[33m9641983[m HEAD@{138}: commit: aa
+[33mfd1eb89[m HEAD@{139}: checkout: moving from main to branch_novo
+[33m630e455[m HEAD@{140}: checkout: moving from branch_novo to main
+[33mfd1eb89[m refs/heads/branch_novo@{3}: branch: Created from HEAD
+[33mfd1eb89[m HEAD@{141}: checkout: moving from fd1eb89435ead70ab4fc66cac251f188627c0b27 to branch_novo
+[33mfd1eb89[m HEAD@{142}: checkout: moving from main to fd1eb89
+[33m630e455[m refs/remotes/origin/main@{10}: update by push
+[33m630e455[m refs/heads/main@{24}: commit: aa
+[33m630e455[m HEAD@{143}: commit: aa
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{144}: checkout: moving from add-style to main
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{145}: checkout: moving from main to add-style
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{146}: checkout: moving from add-style to main
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m refs/heads/add-style@{1}: branch: Created from cdeb67dd60536b9a74a6e328ba57a0ff8f746c59
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{147}: checkout: moving from main to add-style
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{148}: reset: moving to HEAD
+[33md5901a5[m[33m ([m[1;35mrefs/stash[m[33m)[m refs/stash@{0}: WIP on main: cdeb67d teste stash
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{149}: reset: moving to HEAD
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{150}: reset: moving to HEAD
+[33mb3564e0[m refs/stash@{1}: WIP on main: cdeb67d teste stash
+[33m9328827[m refs/stash@{2}: WIP on main: cdeb67d teste stash
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{151}: reset: moving to HEAD
+[33m6cd1a48[m refs/stash@{3}: WIP on main: cdeb67d teste stash
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{152}: reset: moving to HEAD
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{153}: reset: moving to HEAD
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{154}: reset: moving to HEAD
+[33mcebf070[m refs/stash@{4}: WIP on main: cdeb67d teste stash
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{155}: reset: moving to HEAD
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m refs/remotes/origin/main@{11}: update by push
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m refs/heads/main@{25}: commit (merge): teste stash
+[33mcdeb67d[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.4[m[33m, [m[1;33mtag: teste[m[33m)[m HEAD@{156}: commit (merge): teste stash
+[33mf2687c4[m HEAD@{157}: reset: moving to HEAD
+[33mf2687c4[m HEAD@{158}: reset: moving to HEAD
+[33mf2687c4[m refs/heads/main@{26}: commit (amend): teste stash
+[33mf2687c4[m HEAD@{159}: commit (amend): teste stash
+[33m9b01bef[m refs/remotes/origin/main@{12}: update by push
+[33m9b01bef[m refs/heads/main@{27}: commit: teste stash
+[33m9b01bef[m HEAD@{160}: commit: teste stash
+[33m48467bc[m refs/stash@{5}: WIP on main: fd1eb89 new changes
+[33mfd1eb89[m HEAD@{161}: reset: moving to HEAD
+[33mfd1eb89[m HEAD@{162}: reset: moving to HEAD
+[33mfd1eb89[m HEAD@{163}: checkout: moving from future-plans to main
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{164}: checkout: moving from main to future-plans
+[33mfd1eb89[m refs/remotes/origin/main@{13}: update by push
+[33mfd1eb89[m refs/heads/main@{28}: commit: new changes
+[33mfd1eb89[m HEAD@{165}: commit: new changes
+[33ma310305[m refs/remotes/origin/main@{14}: update by push
+[33ma310305[m refs/heads/main@{29}: commit: new changes
+[33ma310305[m HEAD@{166}: commit: new changes
+[33m384a2a2[m refs/heads/main@{30}: reset: moving to 384a2a2
+[33m384a2a2[m HEAD@{167}: reset: moving to 384a2a2
+[33m3e33d4e[m refs/heads/main@{31}: reset: moving to 3e33d4e
+[33m3e33d4e[m HEAD@{168}: reset: moving to 3e33d4e
+[33mb974365[m refs/heads/main@{32}: commit: add arq3 5
+[33mb974365[m HEAD@{169}: commit: add arq3 5
+[33m7e2bf4b[m refs/heads/main@{33}: revert: Revert "add arq3"
+[33m7e2bf4b[m HEAD@{170}: revert: Revert "add arq3"
+[33ma23ec68[m refs/heads/main@{34}: revert: Revert "add arq3 5"
+[33ma23ec68[m HEAD@{171}: revert: Revert "add arq3 5"
+[33m3e33d4e[m refs/heads/main@{35}: commit: add arq3 5
+[33m3e33d4e[m HEAD@{172}: commit: add arq3 5
+[33m384a2a2[m refs/heads/main@{36}: reset: moving to 384a2a2
+[33m384a2a2[m HEAD@{173}: reset: moving to 384a2a2
+[33md92da6c[m refs/heads/main@{37}: commit: add arq3 4
+[33md92da6c[m HEAD@{174}: commit: add arq3 4
+[33m384a2a2[m refs/heads/main@{38}: commit: add arq3
+[33m384a2a2[m HEAD@{175}: commit: add arq3
+[33m5698730[m refs/heads/main@{39}: reset: moving to 5698730
+[33m5698730[m HEAD@{176}: reset: moving to 5698730
+[33m95421f8[m refs/heads/main@{40}: commit: add arq3
+[33m95421f8[m HEAD@{177}: commit: add arq3
+[33m5698730[m refs/heads/main@{41}: reset: moving to 5698730
+[33m5698730[m HEAD@{178}: reset: moving to 5698730
+[33mb283e90[m refs/heads/main@{42}: commit: add arq3
+[33mb283e90[m HEAD@{179}: commit: add arq3
+[33m5698730[m refs/heads/main@{43}: commit: add arq3
+[33m5698730[m HEAD@{180}: commit: add arq3
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/heads/main@{44}: reset: moving to 6a20eb9
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{181}: reset: moving to 6a20eb9
+[33m2bdc272[m refs/heads/main@{45}: commit: add arq3
+[33m2bdc272[m HEAD@{182}: commit: add arq3
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/heads/main@{46}: reset: moving to 6a20eb9
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{183}: reset: moving to 6a20eb9
+[33m0a75077[m refs/heads/main@{47}: commit: add arq3
+[33m0a75077[m HEAD@{184}: commit: add arq3
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/heads/main@{48}: reset: moving to 6a20eb9
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{185}: reset: moving to 6a20eb9
+[33m877cc60[m refs/heads/main@{49}: commit: arq modificado
+[33m877cc60[m HEAD@{186}: commit: arq modificado
+[33m1f6216a[m refs/heads/main@{50}: commit: arq criado
+[33m1f6216a[m HEAD@{187}: commit: arq criado
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{188}: checkout: moving from future-plans to main
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{189}: checkout: moving from main to future-plans
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{190}: checkout: moving from future-plans to main
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/remotes/origin/future-plans@{0}: update by push
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{191}: checkout: moving from main to future-plans
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/remotes/origin/main@{15}: update by push
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/heads/main@{51}: merge future-plans: Fast-forward
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{192}: merge future-plans: Fast-forward
+[33m7fa4a3d[m refs/remotes/origin/main@{16}: update by push
+[33m7fa4a3d[m HEAD@{193}: checkout: moving from future-plans to main
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m refs/heads/future-plans@{0}: pull: Merge made by the 'ort' strategy.
+[33m6a20eb9[m[33m ([m[1;31morigin/future-plans[m[33m, [m[1;32mfuture-plans[m[33m)[m HEAD@{194}: pull: Merge made by the 'ort' strategy.
+[33m7fa4a3d[m HEAD@{195}: reset: moving to 7fa4a3d
+[33m7fa4a3d[m HEAD@{196}: reset: moving to HEAD
+[33m7fa4a3d[m HEAD@{197}: checkout: moving from main to future-plans
+[33m7fa4a3d[m HEAD@{198}: checkout: moving from future-plans to main
+[33m7fa4a3d[m HEAD@{199}: checkout: moving from main to future-plans
+[33m7fa4a3d[m HEAD@{200}: checkout: moving from future-plans to main
+[33m7fa4a3d[m refs/heads/future-plans@{1}: merge main: Fast-forward
+[33m7fa4a3d[m HEAD@{201}: merge main: Fast-forward
+[33me367b54[m HEAD@{202}: checkout: moving from main to future-plans
+[33m7fa4a3d[m refs/heads/main@{52}: merge future-plans: Merge made by the 'ort' strategy.
+[33m7fa4a3d[m HEAD@{203}: merge future-plans: Merge made by the 'ort' strategy.
+[33m5cf87be[m HEAD@{204}: checkout: moving from future-plans to main
+[33me367b54[m HEAD@{205}: checkout: moving from main to future-plans
+[33m5cf87be[m HEAD@{206}: checkout: moving from future-plans to main
+[33me367b54[m HEAD@{207}: checkout: moving from main to future-plans
+[33m5cf87be[m refs/remotes/origin/main@{17}: update by push
+[33m5cf87be[m refs/heads/main@{53}: pull: Merge made by the 'ort' strategy.
+[33m91ee208[m refs/remotes/origin/future-plans@{1}: pull: fast-forward
+[33m5cf87be[m HEAD@{208}: pull: Merge made by the 'ort' strategy.
+[33m9f3ac40[m HEAD@{209}: checkout: moving from future-plans to main
+[33me367b54[m refs/heads/future-plans@{2}: branch: Created from refs/remotes/origin/future-plans
+[33me367b54[m HEAD@{210}: checkout: moving from main to future-plans
+[33m9f3ac40[m HEAD@{211}: reset: moving to HEAD@{0}
+[33m9f3ac40[m refs/heads/main@{54}: revert: Revert "Update locations.txt"
+[33m9f3ac40[m HEAD@{212}: revert: Revert "Update locations.txt"
+[33m51c0951[m refs/heads/main@{55}: reset: moving to HEAD@{1}
+[33m51c0951[m HEAD@{213}: reset: moving to HEAD@{1}
+[33m7375690[m refs/remotes/origin/main@{18}: update by push
+[33m7375690[m refs/heads/main@{56}: commit: teste
+[33m7375690[m HEAD@{214}: commit: teste
+[33m51c0951[m refs/heads/main@{57}: reset: moving to 51c0951
+[33m51c0951[m HEAD@{215}: reset: moving to 51c0951
+[33m1e3823c[m refs/heads/main@{58}: pull --all: Fast-forward
+[33m1e3823c[m refs/remotes/origin/main@{19}: pull --all: fast-forward
+[33m1e3823c[m HEAD@{216}: pull --all: Fast-forward
+[33me367b54[m HEAD@{217}: checkout: moving from future-plans to main
+[33me367b54[m HEAD@{218}: checkout: moving from e367b540f3b304f3d64b8c961ba810400aeeebc5 to future-plans
+[33me367b54[m HEAD@{219}: checkout: moving from main to e367b54
+[33me367b54[m HEAD@{220}: checkout: moving from future-plans to main
+[33me367b54[m HEAD@{221}: checkout: moving from main to future-plans
+[33me367b54[m HEAD@{222}: checkout: moving from e367b540f3b304f3d64b8c961ba810400aeeebc5 to main
+[33me367b54[m HEAD@{223}: checkout: moving from main to e367b54
+[33me367b54[m refs/remotes/origin/main@{20}: update by push
+[33me367b54[m refs/heads/main@{59}: merge future-plans: Fast-forward
+[33me367b54[m HEAD@{224}: merge future-plans: Fast-forward
+[33m51c0951[m HEAD@{225}: checkout: moving from future-plans to main
+[33me367b54[m HEAD@{226}: checkout: moving from main to future-plans
+[33m51c0951[m HEAD@{227}: checkout: moving from future-plans to main
+[33me367b54[m refs/remotes/origin/future-plans@{2}: update by push
+[33me367b54[m HEAD@{228}: commit: making a change in a branch
+[33m51c0951[m HEAD@{229}: checkout: moving from main to future-plans
+[33m51c0951[m HEAD@{230}: checkout: moving from future-plans to main
+[33m51c0951[m HEAD@{231}: checkout: moving from main to future-plans
+[33m51c0951[m refs/heads/main@{60}: pull --all: Fast-forward
+[33m51c0951[m refs/remotes/origin/main@{21}: pull --all: fast-forward
+[33m51c0951[m HEAD@{232}: pull --all: Fast-forward
+[33mbe059f3[m refs/heads/main@{61}: pull --all: Fast-forward
+[33mbe059f3[m refs/remotes/origin/main@{22}: pull --all: fast-forward
+[33mbe059f3[m HEAD@{233}: pull --all: Fast-forward
+[33me76a71a[m refs/remotes/origin/main@{23}: update by push
+[33me76a71a[m refs/heads/main@{62}: commit: Initial commit
+[33me76a71a[m HEAD@{234}: commit: Initial commit
+[33m4486a2b[m refs/heads/main@{63}: clone: from https://github.com/lucasnunesss/teste2.git
+[33m4486a2b[m refs/remotes/origin/HEAD@{0}: clone: from https://github.com/lucasnunesss/teste2.git
+[33m4486a2b[m HEAD@{235}: clone: from https://github.com/lucasnunesss/teste2.git
